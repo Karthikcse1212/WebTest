@@ -1,4 +1,4 @@
-package pack;
+package Javat;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -8,7 +8,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class logintest {
+public class javatest {
 
 	WebDriver driver;
 
